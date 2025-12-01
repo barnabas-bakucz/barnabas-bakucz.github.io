@@ -6,17 +6,19 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-You can download my full CV [here](/assets/files/cv.pdf).
+You can download my full [CV](/assets/files/cv.pdf).
 
-## Education
+<!-- ## Education
 
 **Ph.D. in Economics**, Your University, Expected Year
+
 * Dissertation: "Your Dissertation Title"
 * Committee: Professor Names
 
 **M.A. in Economics**, Your University, Year
 
 **B.A. in Economics**, Undergraduate University, Year
+
 * Honors/Distinctions
 
 ## Research Interests
@@ -33,17 +35,16 @@ You can download my full CV [here](/assets/files/cv.pdf).
 ## Teaching Experience
 
 **Teaching Fellow**, Your University
+
 * Course Name (Semester Year)
 * Course Name (Semester Year)
 
 ## Professional Experience
 
 **Position Title**, Organization, Year–Year
+
 * Brief description
 
 ## References
 
-Available upon request.
-
-
-
+Available upon request. -->

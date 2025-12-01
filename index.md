@@ -3,15 +3,18 @@ layout: default
 title: Home
 ---
 
-# 
+I am a second-year PhD candidate in the Department of Economics at the Norwegian School of Economics, affiliated with The Choice Lab at the [FAIR research institute](https://www.nhh.no/en/research-centres/fair/).
 
-I am a Ph.D. candidate in Economics at [Your University]. My research focuses on [your research interests]. I am on the job market in AY 2025-2026.
+My research interests lie at the intersection of behavioral and public economics.  I am mainly interested in using empirical and experimental methods to explore how institutional rules influence individual decision-making and the factors that shape public attitudes toward redistribution.
 
-## Research
+<!-- ## Research
 
 ### Job Market Paper
 
-* **Your Paper Title** (with Co-author Name)
+* **Effect of Banana in Macro Economics** (with Lie Xi)
+  * Press: Publication Name
+
+* **Effect of Appel in Macro Economics** (with Lie Xi)
   * Press: Publication Name
 
 ### Published and Forthcoming
@@ -34,7 +37,4 @@ I am a Ph.D. candidate in Economics at [Your University]. My research focuses on
 
 ### Software
 
-* [Package Name](link): Brief description
-
-
-
+* [Package Name](link): Brief description -->

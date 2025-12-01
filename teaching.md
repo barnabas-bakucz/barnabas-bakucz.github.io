@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Teaching
+<!-- # Teaching
 
 ## Teaching Experience
 
@@ -29,4 +29,4 @@ Selected materials from courses I have taught:
 
 ## Teaching Philosophy
 
-A brief statement about your teaching philosophy and approach goes here.
+A brief statement about your teaching philosophy and approach goes here. -->

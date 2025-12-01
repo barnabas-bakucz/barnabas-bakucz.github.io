@@ -1,20 +1,19 @@
-title: Your Name
-name: Your Name
+title: Barnabás Bakucz
+name: Barnabás Bakucz
 description: Personal academic website
 url: ""
 baseurl: ""
 
 author:
-  name: Your Name
+  name: Barnabás Bakucz
   title: "Ph.D. Candidate"
-  institution: "Your University"
-  department: "Department of Economics"
-  location: "City, State"
-  email: "your.email@university.edu"
-  github: "yourgithub"
-  google_scholar: ""
-  twitter: ""
-  linkedin: ""
+  institution: "Norwegian School of Economics"
+  location: "Bergen, Norway"
+  email: "barnabas.bakucz@nhh.no"
+  github: "barnabas-bakucz"
+  # google_scholar: ""
+  # twitter: ""
+  linkedin: "https://www.linkedin.com/in/barnabas-bakucz"
 
 markdown: kramdown
 highlighter: rouge
@@ -27,5 +26,3 @@ exclude:
 
 plugins:
   - jekyll-seo-tag
-
-
