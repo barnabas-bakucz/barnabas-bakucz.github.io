@@ -14,10 +14,6 @@
   --font-serif: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 body {
   margin: 0;
   font-family: var(--font-sans);
