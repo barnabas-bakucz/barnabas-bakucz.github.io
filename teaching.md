@@ -4,29 +4,17 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<!-- # Teaching
+# Teaching
 
-## Teaching Experience
+## Norwegian School of Economics
 
-### Your University
+* **Behavioral Economics** (graduate) — Fall 2025
+* **Microeconomics** (undergraduate) — Spring 2025
 
-**Teaching Fellow**
+## University of Groningen
 
-* **Course Name** (Semester Year)
-  * Instructor: Professor Name
-  * Course description or your role
-  
-* **Course Name** (Semester Year)
-  * Instructor: Professor Name
-  * Course description or your role
-
-## Teaching Materials
-
-Selected materials from courses I have taught:
-
-* [Material Title](link) — Brief description
-* [Material Title](link) — Brief description
-
-## Teaching Philosophy
-
-A brief statement about your teaching philosophy and approach goes here. -->
+* **Behavioral Economics** (undergraduate) — Fall 2023
+* **Political Economics** (undergraduate) — Spring 2023
+* **Statistics** (undergraduate) — Spring 2022, Spring 2023
+* **Microeconomics** (undergraduate) — Fall 2021, Fall 2022, Fall 2023
+* **Macroeconomics** (undergraduate) — Fall 2021, Fall 2022, Fall 2023
