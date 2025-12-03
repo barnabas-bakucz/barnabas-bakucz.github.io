@@ -7,34 +7,11 @@ I am a second-year PhD candidate in the Department of Economics at the Norwegian
 
 My research interests lie at the intersection of behavioral and public economics.  I am mainly interested in using empirical and experimental methods to explore how institutional rules influence individual decision-making and the factors that shape public attitudes toward redistribution.
 
-<!-- ## Research
+## Work in Progress
 
-### Job Market Paper
+"The Side Effects of Disclosure Agency: Advisor Fidelity and Client Compliance"
 
-* **Effect of Banana in Macro Economics** (with Lie Xi)
-  * Press: Publication Name
+"When Trust is a Tradeoff: Client Preferences for Advisor Fidelity and Competence Under Uncertainty"
 
-* **Effect of Appel in Macro Economics** (with Lie Xi)
-  * Press: Publication Name
+"From Shared Ideals to Divided Policies: The Implementation Gap in Redistribution" (with [Johanna Mollerstrom](https://sites.google.com/site/johannamollerstrom/) and [Morten Nyborg Støstad](https://sites.google.com/view/morten-stostad))
 
-### Published and Forthcoming
-
-* **Your Published Paper Title** (with Co-authors) — *forthcoming at Journal Name*
-  * Press: Press Coverage
-
-* **Another Paper Title** (with Co-authors) — *Journal Name, Month Year*
-
-### Working Papers
-
-* **Working Paper Title** (with Co-authors)
-  * Brief description or status
-
-## Other Publications
-
-### Popular Writing and Op-eds
-
-* [Article Title](link) (with Co-authors)
-
-### Software
-
-* [Package Name](link): Brief description -->

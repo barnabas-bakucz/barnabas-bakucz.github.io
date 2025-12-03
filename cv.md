@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-You can download my full [CV](/assets/files/cv.pdf).
+You can download my full here: [CV](/assets/files/cv.pdf).
 
 <!-- ## Education
 
