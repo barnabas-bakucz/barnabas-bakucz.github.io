@@ -14,6 +14,6 @@ You can download my full here: [CV](/assets/files/cv.pdf).
 
 * Supervisor: [Bertil Tungodden](https://sites.google.com/view/bertiltungodden/home)
 
-**MScR in Economics** University of Groningen, 2022-2024
+**MScR in Economics**, University of Groningen, 2022-2024
 
 **BSc in Economics and Business Economics**, University of Groningen, 2019-2022
