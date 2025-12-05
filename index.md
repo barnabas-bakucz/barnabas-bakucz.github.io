@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Weclome!
+# Welcome!
 
 I am a second-year PhD candidate in the Department of Economics at the Norwegian School of Economics, affiliated with The Choice Lab at the [FAIR research institute](https://www.nhh.no/en/research-centres/fair/).
 
