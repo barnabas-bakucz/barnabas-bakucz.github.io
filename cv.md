@@ -8,7 +8,7 @@ permalink: /cv/
 
 You can download my full here: [CV](/assets/files/cv.pdf).
 
-<!-- ## Education
+## Education
 
 **Ph.D. in Economics**, Norwegian School of Economics, 2024-
 
