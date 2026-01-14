@@ -10,7 +10,7 @@ My research interests lie at the intersection of behavioral and public economics
 
 ## Work in Progress
 
-"The Side Effects of Disclosure Agency: Advisor Fidelity and Client Compliance"
+"Coming Clean by Choice: The Moral Dividend of Agency Over Disclosure"
 
 "When Trust is a Tradeoff: Client Preferences for Advisor Fidelity and Competence Under Uncertainty"
 
