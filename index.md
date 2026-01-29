@@ -6,7 +6,7 @@ title: Home
 
 I am a second-year PhD candidate in the Department of Economics at the Norwegian School of Economics, affiliated with The Choice Lab at the [centre of excellence FAIR](https://www.nhh.no/en/research-centres/fair/).
 
-### I will be visiting UC Berkeley in the 2026-2027 academic year.</strong>
+#### I will be visiting UC Berkeley in the 2026-2027 academic year.</strong>
 
 My research interests lie at the intersection of behavioral and public economics.  I am mainly interested in using empirical and experimental methods to explore how institutional rules influence individual decision-making and the factors that shape public attitudes toward redistribution.
 
