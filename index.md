@@ -4,7 +4,7 @@ title: Home
 ---
 # Welcome!
 
-I am a second-year PhD candidate at the Department of Economics of the Norwegian School of Economics, affiliated with The Choice Lab at the [centre of excellence FAIR](https://www.nhh.no/en/research-centres/fair/).
+I am a second-year Ph.D. candidate in economics at the Norwegian School of Economics, affiliated with The Choice Lab at the [centre of excellence FAIR](https://www.nhh.no/en/research-centres/fair/).
 
 #### I will be visiting UC Berkeley in the 2026-2027 academic year.
 
