@@ -14,7 +14,7 @@ My research interests lie at the intersection of behavioral and public economics
 
 "Coming Clean by Choice: The Moral Dividend of Agency Over Disclosure"
 
-"When Trust is a Tradeoff: Client Preferences for Advisor Fidelity and Competence Under Uncertainty"
+"Followers or Credentials? How People Choose Whom to Trust"
 
 "From Shared Ideals to Divided Policies: The Implementation Gap in Redistribution" (with [Johanna Mollerstrom](https://sites.google.com/site/johannamollerstrom/) and [Morten Nyborg Støstad](https://sites.google.com/view/morten-stostad))
 
