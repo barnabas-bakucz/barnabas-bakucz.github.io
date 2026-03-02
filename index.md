@@ -12,7 +12,7 @@ My research interests lie at the intersection of behavioral and public economics
 
 ## Work in Progress
 
-"I Choose to Come Clean: The Dividend of Having Agency Over Disclosure"
+"Turning Transparency into Trust: Can Agency Make a Difference?"
 
 "Followers or Credentials? How People Choose Whom to Trust"
 
