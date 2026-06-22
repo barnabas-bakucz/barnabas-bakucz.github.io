@@ -12,7 +12,7 @@ My research interests lie at the intersection of behavioral and public economics
 
 ## Work in Progress
 
-"Turning Transparency into Trust: Can Agency Make a Difference?"
+"When Rules are Signals: Client Inference from Disclosure Requirements"
 
 "Followers or Credentials? How People Choose Whom to Trust"
 
