@@ -9,7 +9,7 @@ permalink: /teaching/
 ## Norwegian School of Economics
 
 * Behavioral Economics (graduate) — Fall 2025
-* Microeconomics (undergraduate) — Spring 2025
+* Microeconomics (undergraduate) — Spring 2025, Spring 2026
 
 ## University of Groningen
 
